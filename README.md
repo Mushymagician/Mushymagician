@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mushymagician
 - 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning hoew Machine Learning algorithms work natively
+- 🌱 I’m currently learning how Machine Learning algorithms work natively
 - 💞️ I’m looking to collaborate on any projects related to ML and AI
 
 <!---
